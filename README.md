@@ -19,6 +19,7 @@ Recently, I’ve been focused on **Generative AI (GenAI)**, building intelligent
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-11-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
