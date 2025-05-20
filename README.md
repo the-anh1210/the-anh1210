@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Harry Wang
+# 👋 Hi there, I'm Nguyen The Anh
 
 I'm a **Senior Full-Stack Software Engineer** with 9+ years of experience building scalable, secure, and cloud-native applications across **healthtech, fintech, and eCommerce** sectors. I specialize in **Ruby on Rails**, **JavaScript/TypeScript**, **React**, **Vue**, and **Node.js**, with strong DevOps skills in **Docker**, **AWS**, and **CI/CD pipelines**.
 
@@ -8,7 +8,7 @@ Recently, I’ve been focused on **Generative AI (GenAI)**, building intelligent
 
 ## 💼 What I Do
 
-- 🔧 Full-stack development with **Python**, **Ruby on Rails**, **C#/.NET**, **React**, **Vue**, **Next.js** and **Node.js**
+- 🔧 Full-stack development with **Python**, **Java**, **Ruby on Rails**, **C#/.NET**, **React**, **Vue**, **Next.js** and **Node.js**
 - ☁️ Cloud-native architecture with **AWS**, **Docker**, **CI/CD**, and **DevOps automation**
 - 🔍 Site reliability, performance optimization, and production monitoring (DataDog, Sentry)
 - 🧪 Clean, maintainable, and well-tested codebases with **TDD**, **RSpec**, **Jest**
